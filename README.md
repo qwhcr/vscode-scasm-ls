@@ -1,2 +1,2 @@
 # vscode-scasm-ls
-Assembly language support for Gatech ECE 2031 SCASM ISA
+Assembly language support for Gatech ECE 2031 SCOMP ISA
